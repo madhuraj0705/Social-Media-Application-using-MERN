@@ -1,5 +1,4 @@
 # Social-Media-Application-using-MERN
-<<<<<<< HEAD
 ## Description
 A social media website built using the MERN stack, where users can connect with others, share posts, and interact with content.
 
@@ -22,7 +21,6 @@ A social media website built using the MERN stack, where users can connect with 
 - Like and comment on posts
 - Send and accept friend requests
 - Real-time chat functionality for private messaging
-=======
 Description
 A social media website built using the MERN stack, where users can connect with others, share posts, and interact with content.
 
@@ -39,4 +37,3 @@ Post and delete content
 Like and comment on posts
 Send and accept friend requests
 Real-time chat functionality for private messaging
->>>>>>> origin/main
